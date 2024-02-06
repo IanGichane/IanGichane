@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br>I'm Ian, a passionate engineer who's transitioned from Mechanical to Software engineering. <br>I hold degrees in Mechanical Engineering from Dedan Kimathi University of Technology and Software Engineering from Moringa School.<br>Currently, I'm diving into the world of coding as a junior software developer, eager to absorb knowledge and contribute to exciting projects.<br>On my GitHub, I share insights, projects, and lessons learned along the way. <br>Join me as I explore the intersections of mechanics and code,<br>and let's build something awesome together! <br>#MechToCode <br>#TechJourney <br>#SynergyInEngineering<br><br><br><br><br><br>
-
+Hey there! 👋<br>I'm Ian, a passionate engineer who's transitioned from Mechanical to Software engineering. <br>I hold degrees in Mechanical Engineering from Dedan Kimathi University of Technology and Software Engineering from Moringa School.<br>Currently, I'm diving into the world of coding as a junior software developer, eager to absorb knowledge and contribute to exciting projects.<br>On my GitHub, I share insights, projects, and lessons learned along the way. <br>Join me as I explore the intersections of mechanics and code,<br>and let's build something awesome together! <br>#MechToCode <br>#TechJourney <br>#SynergyInEngineering<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ian Gichane  ) 
